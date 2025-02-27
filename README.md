@@ -1,2 +1,4 @@
 # House-Price-Prediction
-House Price Prediction Model Using Linear regression model from Sklearn library 
+This is a Linear Regression Model to predict the Boston House Price 
+
+
